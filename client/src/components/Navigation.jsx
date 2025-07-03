@@ -21,7 +21,7 @@ const Navigation = () => {
 							Home
 						</Link>
 						<Link
-							to="/create"
+							to="/posts/new"
 							className="bg-blue-600 text-white hover:bg-blue-700 px-4 py-2 rounded-md text-sm font-medium transition-colors flex items-center">
 							<Plus className="w-4 h-4 mr-2" />
 							Create Post
